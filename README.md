@@ -80,3 +80,15 @@ pip install -r requirements.txt
 Pasha Adjie Pratama
 
 Individual Portfolio Project — Retail Sales Analysis
+
+
+## Hasil Analisis
+
+### 1. Analisis Penjualan Berdasarkan Kategori
+![Sales by Category](images/sales-category.png)
+
+### 2. Analisis Profit Berdasarkan Sub-Category
+![Profit by Sub-Category](images/profit-subcategory.png)
+
+### 3. Analisis Dampak Diskon terhadap Profit
+![Profit by Discount](images/profit-discount.png)
