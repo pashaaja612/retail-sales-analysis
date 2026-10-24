@@ -81,14 +81,13 @@ Pasha Adjie Pratama
 
 Individual Portfolio Project — Retail Sales Analysis
 
-
 ## Hasil Analisis
 
 ### 1. Analisis Penjualan Berdasarkan Kategori
-![Sales by Category](images/sales-category.png)
+![Sales by Category](sales%20by%20category.png)
 
 ### 2. Analisis Profit Berdasarkan Sub-Category
-![Profit by Sub-Category](images/profit-subcategory.png)
+![Profit by Sub-Category](profit%20by%20sub-category.png)
 
 ### 3. Analisis Dampak Diskon terhadap Profit
-![Profit by Discount](images/profit-discount.png)
+![Profit by Discount](profit%20by%20discount.png)
